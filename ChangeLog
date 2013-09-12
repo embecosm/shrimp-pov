@@ -1,3 +1,25 @@
-2013-09-11  Jeremy Bennett <jeremy.bennett@embecosm.com>
+2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* .gitignore: Created.
+	* fritzing/minimal-shrimp.fzz: Created.
+	* fritzing/protected-shrimp-battery.fzz: Created.
+	* fritzing/protected-shrimp-blink-battery.fzz: Created.
+	* fritzing/protected-shrimp-blink.fzz: Created.
+	* fritzing/protected-shrimp-pov-resistor-battery.fzz: Created.
+	* fritzing/protected-shrimp-pov-resistor.fzz: Created.
+	* fritzing/protected-shrimp-pov.fzz: Created.
+	* fritzing/protected-shrimp.fzz: Created.
+	* images/minimal-shrimp.png: Created.
+	* images/protected-shrimp-battery.png: Created.
+	* images/protected-shrimp-blink-battery.png: Created.
+	* images/protected-shrimp-blink.png: Created.
+	* images/protected-shrimp-pov-resistor-battery.png: Created.
+	* images/protected-shrimp-pov-resistor.png: Created.
+	* images/protected-shrimp-pov.png: Created.
+	* images/protected-shrimp.png: Created.
+	* presentations/shrimp-pov.odp: Created.
+
+2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
+	* ChangeLog: Created.
 	* README.md: Initial version.
