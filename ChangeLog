@@ -1,5 +1,9 @@
 2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* README.md: Added link to original project.
+
+2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* .gitignore: Created.
 	* fritzing/minimal-shrimp.fzz: Created.
 	* fritzing/protected-shrimp-battery.fzz: Created.
