@@ -1,5 +1,20 @@
 2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* fritzing/minimal-shrimp.fzz: Added circuit diagram.
+	* fritzing/protected-shrimp-battery.fzz: 3-battery box used.
+	* fritzing/protected-shrimp-blink-battery.fzz: Likewise.
+	* fritzing/protected-shrimp-pov-resistor-battery.fzz: Likewise.
+	* fritzing/svg/breadboard/batterypack_3xAAA_breadboard.svg: Created.
+	* fritzing/svg/schematic/embecosm_uart_schematic.svg: Created.
+	* images/minimal-shrimp-circuit.png: Created.
+	* images/protected-shrimp-battery.png: 3-battery box used.
+	* images/protected-shrimp-blink-battery.png: Likewise.
+	* images/protected-shrimp-pov-resistor-battery.png: Likewise.
+	* presentations/shrimp-pov.odp: New images, added circuit diagram,
+	minor layout changes.
+
+2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* code/shrimPov/shrimPov.ino: Created (copy of upstream code).
 	* ehw3-package-insert.odt: More layout fixes.
 
