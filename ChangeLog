@@ -1,5 +1,10 @@
 2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* code/shrimPov/shrimPov.ino: Created (copy of upstream code).
+	* ehw3-package-insert.odt: More layout fixes.
+
+2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* ehw3-package-insert.odt: Tidied up typography, layout and
 	spelling.
 
