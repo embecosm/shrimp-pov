@@ -1,0 +1,60 @@
+Shrimp PoV Bill of Parts
+========================
+
+Three columns include P&P. First is shared cost ex VAT, assuming that
+components in large packs (quantities in parentheses at end of line) are
+shared between lots of boards. Second column adds VAT. Third column is one-off
+purchase (multi-packs not shared). Fourth column is marginal cost of second
+board.
+
+Generic stuff:
+
+1 x 400 point breadboard   £2.18   £2.18   £2.18   £2.81   eBay (1)
+7 x wires                  £0.37   £0.37   £3.46       -   Amazon (65)
+1 x Battery Box            £0.89   £1.07   £1.07   £1.07   Farnell (1)
+3 x AAA batteries          £0.61   £0.61   £0.99       -   Amazon (40)/99p (11)
+                           -----   -----   -----   -----
+                           £4.05   £4.23   £7.61   £3.88
+				           
+Programming:			           
+				           
+1 x Embecosm USB-UART      £5.00   £6.00   £5.99       -   Embecosm / Amazon (1)
+				           
+The minimal Shrimp:		           
+				           
+1 x ATMega128              £1.64   £1.97   £1.97   £1.97   Farnell (1)
+1 x 10k resistor           £0.02   £0.02   £1.92       -   Farnell (100)
+1 x 16MHz crystal          £0.28   £0.34   £0.46   £0.46   Farnell (1)
+1 x 100nF capacitor        £0.07   £0.08   £2.79       -   Farnell (25)
+2 x 22pF capacitor         £0.06   £0.07   £1.17       -   Farnell (25)
+                           -----   -----   -----   -----
+Total                      £2.09   £2.48   £8.31   £2.43
+				           
+The protected Shrimp:		           
+				           
+1 x ATMega128              £1.64   £1.97   £1.97   £1.97   Farnell (1)
+1 x 10k resistor           £0.02   £0.02   £1.92       -   Farnell (100)
+1 x 16MHz crystal          £0.28   £0.34   £0.46   £0.46   Farnell (1)
+1 x 10uF elect capacitor   £0.06   £0.07   £0.39       -   Farnell (5)
+3 x 100nF capacitor        £0.20   £0.24   £2.79       -   Farnell (25)
+2 x 22pF capacitor         £0.06   £0.07   £1.17       -   Farnell (25)
+1 x diode                  £0.01   £0.01   £0.01   £0.01   Farnell (1)
+1 x push-button switch     £0.11   £0.13   £0.16   £0.16   Farnell (1)
+                           -----   -----   -----   -----
+Total                      £2.37   £2.85   £8.87   £2.60
+				           
+The PoV parts			           
+				           
+8 x 100R resistor          £0.13   £0.15   £0.90       -   Farnell (50)
+8 x red LED                £0.74   £0.89   £0.96   £0.96   Farnell (1)
+                           -----   -----   -----   -----
+Total                      £0.87   £1.04   £1.86   £0.96
+				           
+				           
+Misc				           
+1 x Anti-static bag        £0.13   £0.13  £12.38       -   Farnell (100)
+				           
+Cost to private user              £14.12  £24.33   £7.44
+Cost of EHW3              £12.42  £14.91
+
+(30 x EHW3)              £371.10

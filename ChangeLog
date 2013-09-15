@@ -1,3 +1,33 @@
+2013-09-15  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
+	* bill-of-parts.txt: Created.
+	* fritzing/minimal-shrimp.fzz: Corrected capacitor values, layout
+	tidied.
+	* fritzing/protected-shrimp-battery.fzz: Likewise.
+	* fritzing/protected-shrimp-blink-battery.fzz: Likewise.
+	* fritzing/protected-shrimp-blink.fzz: Likewise.
+	* fritzing/protected-shrimp-pov-resistor-battery.fzz: Likewise.
+	* fritzing/protected-shrimp-pov-resistor.fzz: Likewise.
+	* fritzing/protected-shrimp-pov.fzz: Likewise.
+	* fritzing/protected-shrimp.fzz: Likewise.
+	* fritzing/svg/breadboard/ceramic_capacitor_blue_leg_100nF.svg:
+	Created.
+	* fritzing/svg/breadboard/ceramic_capacitor_blue_leg_22nF.svg
+	Created.
+	* fritzing/svg/breadboard/ceramic_capacitor_blue_leg_22pF.svg
+	Created.
+	* images/minimal-shrimp-circuit.png: Regenerated.
+	* images/minimal-shrimp.png: Regenerated.
+	* images/protected-shrimp-battery.png: Regenerated.
+	* images/protected-shrimp-blink-battery.png: Regenerated.
+	* images/protected-shrimp-blink.png: Regenerated.
+	* images/protected-shrimp-pov-resistor-battery.png: Regenerated.
+	* images/protected-shrimp-pov-resistor.png: Regenerated.
+	* images/protected-shrimp-pov.png: Regenerated.
+	* images/protected-shrimp.png: Regenerated.
+	* presentations/shrimp-pov.odp: Updated with new diagrams and
+	slightly changed order.
+
 2013-09-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
 	* fritzing/minimal-shrimp.fzz: Added circuit diagram.
