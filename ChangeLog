@@ -1,5 +1,45 @@
 2013-09-15  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* fritzing/minimal-shrimp-battery.fzz: Created.
+	* fritzing/minimal-shrimp-blink-battery.fzz: Created.
+	* fritzing/minimal-shrimp-blink.fzz: Created.
+	* fritzing/minimal-shrimp-pov-battery.fzz: Created.
+	* fritzing/minimal-shrimp-pov-resistor-battery.fzz: Created.
+	* fritzing/minimal-shrimp-pov-resistor.fzz: Created.
+	* fritzing/minimal-shrimp-pov.fzz: Created.
+	* fritzing/minimal-shrimp.fzz: Circuit corrected.
+	* fritzing/protected-shrimp-blink.fzz
+	* fritzing/protected-shrimp-pov-resistor.fzz: Likewise.
+	* fritzing/protected-shrimp-pov.fzz: Likewise.
+	* fritzing/protected-shrimp.fzz: Likewise.
+	* images/minimal-shrimp-battery-circuit.png: Generated.
+	* images/minimal-shrimp-battery.png: Generated.
+	* images/minimal-shrimp-blink-battery-circuit.png: Generated.
+	* images/minimal-shrimp-blink-battery.png: Generated.
+	* images/minimal-shrimp-blink-circuit.png: Generated.
+	* images/minimal-shrimp-blink.png: Generated.
+	* images/minimal-shrimp-circuit.png: Regenerated.
+	* images/minimal-shrimp-pov-battery-circuit.png: Generated.
+	* images/minimal-shrimp-pov-battery.png: Generated.
+	* images/minimal-shrimp-pov-circuit.png: Generated.
+	* images/minimal-shrimp-pov-resistor-battery-circuit.png: Generated.
+	* images/minimal-shrimp-pov-resistor-battery.png: Generated.
+	* images/minimal-shrimp-pov-resistor-circuit.png: Generated.
+	* images/minimal-shrimp-pov-resistor.png: Generated.
+	* images/minimal-shrimp-pov.png: Generated.
+	* images/minimal-shrimp.png: Regenerated.
+	* images/protected-shrimp-battery.png: Deleted.
+	* images/protected-shrimp-blink-battery.png: Deleted.
+	* images/protected-shrimp-blink.png: Deleted.
+	* images/protected-shrimp-pov-resistor-battery.png: Deleted.
+	* images/protected-shrimp-pov-resistor.png: Deleted.
+	* images/protected-shrimp-pov.png: Deleted.
+	* images/protected-shrimp.png: Regenerated.
+	* presentations/shrimp-pov.odp: New images inserted, and changed
+	to use minimal shrimp throughout.
+
+2013-09-15  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* bill-of-parts.txt: Created.
 	* fritzing/minimal-shrimp.fzz: Corrected capacitor values, layout
 	tidied.
