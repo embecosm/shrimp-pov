@@ -1,3 +1,11 @@
+2013-11-01  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
+	* bill-of-parts.ods: More comprehensive with up to date prices.
+	* fritzing/minimal-shrimp-no-uart.fzz: Created.
+	* fritzing/minimal-shrimp-pov.fzz: Changed white wire to red.
+	* images/minimal-shrimp-no-uart-circuit.png; Created.
+	* images/minimal-shrimp-pov.png. Regenerated.
+
 2013-09-16  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
 	* ehw3-package-insert.odt: Reinstate reference to Cefn Hoile's
