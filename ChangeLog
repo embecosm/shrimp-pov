@@ -1,5 +1,9 @@
 2013-11-01  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* bill-of-parts.ods: Tidied up.
+
+2013-11-01  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* bill-of-parts.ods: More comprehensive with up to date prices.
 	* fritzing/minimal-shrimp-no-uart.fzz: Created.
 	* fritzing/minimal-shrimp-pov.fzz: Changed white wire to red.
