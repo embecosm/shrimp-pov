@@ -1,3 +1,11 @@
+2013-11-05  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
+	* fritzing/minimal-shrimp-pov.fzz: Tidied up.
+	* images/arduino-uno.jpg: Created.
+	* images/empty-bb.png: Created.
+	* images/shrimp-led.jpg: Created.
+	* presentations/shrimp-pov-instructor.odp: Created.
+
 2013-11-01  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
 	* fritzing/minimal-shrimp-pov.fzz: Use new, smaller breadboard.
