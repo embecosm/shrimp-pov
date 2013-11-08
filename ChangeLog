@@ -1,5 +1,27 @@
 2013-11-05  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* bill-of-parts.ods: Updated prices.
+	* fritzing/minimal-shrimp-blink-battery.fzz: New BB-301 board and
+	capacitor representations.
+	* fritzing/minimal-shrimp-blink.fzz: Likewise.
+	* fritzing/minimal-shrimp-pov-battery.fzz: Likewise.
+	* fritzing/minimal-shrimp-pov.fzz: Likewise.
+	* fritzing/minimal-shrimp.fzz: Likewise.
+	* fritzing/protected-shrimp.fzz: Likewise.
+	* images/minimal-shrimp-blink-battery-circuit.png: Regenerated
+	from Fritzing.
+	* images/minimal-shrimp-blink-battery.png: Likewise.
+	* images/minimal-shrimp-blink-circuit.png: Likewise.
+	* images/minimal-shrimp-blink.png: Likewise.
+	* images/minimal-shrimp-circuit.png: Likewise.
+	* images/minimal-shrimp-pov-battery-circuit.png: Likewise.
+	* images/minimal-shrimp-pov-circuit.png: Likewise.
+	* images/minimal-shrimp-pov.png: Likewise.
+	* images/minimal-shrimp.png: Likewise.
+	* images/protected-shrimp.png: Likewise.
+
+2013-11-05  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* presentations/shrimp-pov-instructor.odp: More slides.
 
 2013-11-05  Jeremy Bennett <jeremy.bennett@embecosm.com>
