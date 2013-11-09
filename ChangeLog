@@ -1,5 +1,19 @@
 2013-11-08  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
+	* fritzing/minimal-shrimp-blink.fzz: Use clear LEDs.
+	* fritzing/minimal-shrimp-pov-battery.fzz: Likewise.
+	* fritzing/minimal-shrimp-pov.fzz: Likewise.
+	* images/arduino-uno.jpg: Reduce resolution.
+	* images/minimal-shrimp-blink.png: Regenerated.
+	* images/minimal-shrimp-pov-battery.png: Regenerated.
+	* images/minimal-shrimp-pov-circuit.svg: Created.
+	* images/minimal-shrimp-pov.png: Regenerated.
+	* images/pinout.png: Created.
+	* presentations/shrimp-pov-instructor.odp: Some new slides.
+	* presentations/shrimp-pov.odp: Use new images, better hints.
+
+2013-11-08  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
 	* presentations/shrimp-pov-instructor.odp: Updated.
 	* presentations/shrimp-pov.odp: Simplified and updated.
 
