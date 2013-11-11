@@ -1,3 +1,9 @@
+2013-11-11  Jeremy Bennett <jeremy.bennett@embecosm.com>
+
+	* images/minimal-shrimp-pov-circuit.svg: Corrected position of
+	capacitor.
+	* presentations/shrimp-pov.odp: Updated after trial run.
+
 2013-11-08  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
 	* fritzing/minimal-shrimp-blink.fzz: Use clear LEDs.
