@@ -1,3 +1,21 @@
+2014-05-27  Jeremy Bennett  <jeremy.bennett@embecosm.com>
+
+	* images/minimal-shrimp-pov-circuit.svg: Updated for cleaner
+	version and 75 ohm R2.
+	* ehw3-bill-of-parts.ods: Renamed from bill-of-parts.ods.
+	* images/breadboard.jpeg: Created.
+	* images/breadboard.png: Created.
+	* images/galaxy.jpg: Created.
+	* images/galaxy.png: Created.
+	* images/minimal-shrimp-pov-circuit.svg: Updated for 75 ohm R2.
+	* images/minimal-shrimp-pov-techmums.png: Created.
+	* images/rave.jpg: Created.
+	* images/rs.jpg: Created.
+	* images/techmums.png: Created.
+	* images/time-1.png: Created.
+	* images/time-2.png: Created.
+	* presentations/shrimp-pov-techmums-instructors.odp: Created.
+
 2013-11-12  Jeremy Bennett <jeremy.bennett@embecosm.com>
 
 	* images/minimal-shrimp-pov-circuit.svg: Updated.
