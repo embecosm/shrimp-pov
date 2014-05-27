@@ -1,5 +1,13 @@
 2014-05-27  Jeremy Bennett  <jeremy.bennett@embecosm.com>
 
+	* ehw3-labels.odt: Created.
+	* ehw3-package-insert-techmums.odt: Created.
+	* ehw3-package-insert.odt: Updated for techmums version.
+	* fritzing/minimal-shrimp-pov-techmums.fzz: Created.
+	* presentations/worksheet.odt: Created.
+
+2014-05-27  Jeremy Bennett  <jeremy.bennett@embecosm.com>
+
 	* images/minimal-shrimp-pov-circuit.svg: Updated for cleaner
 	version and 75 ohm R2.
 	* ehw3-bill-of-parts.ods: Renamed from bill-of-parts.ods.
