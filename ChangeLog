@@ -1,3 +1,10 @@
+2014-06-07  Jeremy Bennett  <jeremy.bennett@embecosm.com>
+
+	* ehw3-package-insert-techmums.odt: Updated for new diagram.
+	* fritzing/minimal-shrimp-pov-techmums.fzz: Updated diagram.
+	* images/minimal-shrimp-pov-techmums.png: Regenerate from Fritzing
+	diagram.
+
 2014-05-27  Jeremy Bennett  <jeremy.bennett@embecosm.com>
 
 	* ehw3-labels.odt: Created.
